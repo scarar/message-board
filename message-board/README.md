@@ -43,7 +43,7 @@ We provide an automated installation script that handles everything for you. Thi
 
 1. Download the installation script:
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/message-board/main/install.sh
+   wget https://raw.githubusercontent.com/scarar/message-board/main/install.sh
    ```
 
 2. Make it executable:
@@ -79,7 +79,7 @@ If you prefer to install manually, follow these steps:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/message-board.git
+git clone https://github.com/scarar/message-board.git
 cd message-board
 ```
 
